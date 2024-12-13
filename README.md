@@ -1,5 +1,5 @@
-**Graph Algorithms: Dijkstra's, Prim's, and Kruskal's
-**
+**Graph Algorithms: Dijkstra's, Prim's, and Kruskal's**
+
 This repository contains implementations of three fundamental graph algorithms: Dijkstra's Algorithm, Prim's Algorithm, and Kruskal's Algorithm. Additionally, it includes a detailed comparison report analyzing the performance and use cases of these algorithms.
 
 Graph algorithms are essential for solving problems related to shortest paths, minimum spanning trees, and graph traversal. This repository implements the following:
